@@ -166,7 +166,7 @@ color: #555555;
 .card-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 10px;
+  padding: 30px;
   margin: 0;
   background: #EEEEEE;
   gap: 10px;
